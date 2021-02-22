@@ -1,0 +1,12 @@
+/Users/erickmeraz/Desktop/mod 2/mod2/mod2/obj/Debug/netcoreapp3.1/mod2.csprojAssemblyReference.cache
+/Users/erickmeraz/Desktop/mod 2/mod2/mod2/obj/Debug/netcoreapp3.1/mod2.AssemblyInfoInputs.cache
+/Users/erickmeraz/Desktop/mod 2/mod2/mod2/obj/Debug/netcoreapp3.1/mod2.AssemblyInfo.cs
+/Users/erickmeraz/Desktop/mod 2/mod2/mod2/obj/Debug/netcoreapp3.1/mod2.csproj.CoreCompileInputs.cache
+/Users/erickmeraz/Desktop/mod 2/mod2/mod2/bin/Debug/netcoreapp3.1/mod2.deps.json
+/Users/erickmeraz/Desktop/mod 2/mod2/mod2/bin/Debug/netcoreapp3.1/mod2.runtimeconfig.json
+/Users/erickmeraz/Desktop/mod 2/mod2/mod2/bin/Debug/netcoreapp3.1/mod2.runtimeconfig.dev.json
+/Users/erickmeraz/Desktop/mod 2/mod2/mod2/bin/Debug/netcoreapp3.1/mod2.dll
+/Users/erickmeraz/Desktop/mod 2/mod2/mod2/bin/Debug/netcoreapp3.1/mod2.pdb
+/Users/erickmeraz/Desktop/mod 2/mod2/mod2/obj/Debug/netcoreapp3.1/mod2.dll
+/Users/erickmeraz/Desktop/mod 2/mod2/mod2/obj/Debug/netcoreapp3.1/mod2.pdb
+/Users/erickmeraz/Desktop/mod 2/mod2/mod2/obj/Debug/netcoreapp3.1/mod2.genruntimeconfig.cache
